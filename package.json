@@ -1,5 +1,19 @@
 {
-  "dependencies": {
-    "express": "^4.17.3"
-  }
+  "name": "vsc-logos",
+  "version": "1.0.0",
+  "description": "Install using\r ```\r npm i vsc-logos\r ```\r How to use:\r ```js\r var logos = require('vsc-logos')",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm i vsc-logos"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InterplexSoftworks/vsc-logos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InterplexSoftworks/vsc-logos/issues"
+  },
+  "homepage": "https://github.com/InterplexSoftworks/vsc-logos#readme"
 }
